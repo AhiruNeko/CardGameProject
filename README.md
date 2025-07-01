@@ -2,7 +2,7 @@
 
 **Please execute all the codes IN ORDER, this is very important.**
 
-## Game Design(Version1)
+## Game Design (Version1)
 
 Card game is a kind of traditional game. Usually, players need to randomly draw cards from the deck and play them in each round. Our card game adds more gameplay to the traditional card game, which includes these following elements:
 1. Cards
